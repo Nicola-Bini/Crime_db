@@ -2,7 +2,7 @@
 
 This is the final project of a SQL course for my Master in Business Analytics at Hult International Business School.
 The objective was to create a normalized ER-database, queries and procedures to create useful reports based on data of crimes.
-Our team decided to focus on creating reports to provide useful information for developing new government policies and aids to reduce criminality in critical areas.
+My teammate and I decided to focus on creating reports to provide useful information for developing new government policies and aids to reduce criminality in critical areas.
 
 Collaborator: [Maria Andrea Ona](https://github.com/mandreaona)
 
