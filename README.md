@@ -11,4 +11,4 @@ Collaborator: [Maria Andrea Ona](https://github.com/mandreaona)
 
 Do not use any statistic contained in the report, all illustrative graphs and output tables have been created using randomly generated data to demonstrate how the database and queries would work.
 
-[Click here to read the Full report](./Full_report.pdf)
+[Click here to read the full report](./full_report.pdf)
